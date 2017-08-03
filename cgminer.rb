@@ -4,7 +4,7 @@ class Cgminer < Formula
   homepage 'https://github.com/vthoang/cgminer'
   head 'https://github.com/vthoang/cgminer.git', :branch => 'master'
   url 'https://github.com/vthoang/cgminer/archive/495461ca3b905212f0082c2dad622f9ac7d35360.tar.gz'
-  sha256 'ee0c871cb85bda44de21dc1fa57eaa3cf65c3e7072f5b075ca2612dc89933f83'
+  sha256 '6a93d065551bde115905037c71398b57cff0efa569bd8e229a20e3d36e598be1'
   version "4.10.0"
 
   depends_on 'autoconf' => :build
