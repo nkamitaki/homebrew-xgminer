@@ -1,6 +1,6 @@
 require 'formula'
 
-class Cgminergekko < Formula
+class CgminerGekko < Formula
   homepage 'https://github.com/vthoang/cgminer'
   head 'https://github.com/vthoang/cgminer.git', :branch => 'master'
   url 'https://github.com/vthoang/cgminer/archive/495461ca3b905212f0082c2dad622f9ac7d35360.tar.gz'
